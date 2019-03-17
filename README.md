@@ -125,7 +125,7 @@ The following shows the results for several test images with a threshold of 0.17
 
 ## Discussion
 
-The YOLO is known to be fast. In the original paper, the tiny-YOLO is reported to work at nearly 200 FPS on a powerful desktop GPU. In this project, the video is processed on a Nvidia 1070 and the rate is about 21FS without batch processing.
+The YOLO is known to be fast. In the original paper, the [tiny-YOLO](wget https://pjreddie.com/media/files/yolov3-tiny.weights) is reported to work at nearly 200 FPS on a powerful desktop GPU. In this project, the video is processed on a Nvidia 1070 and the rate is about 21FS without batch processing.
 
 ## Reference
 
