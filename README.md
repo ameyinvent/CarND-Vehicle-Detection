@@ -134,6 +134,7 @@ The YOLO is known to be fast. In the original paper, the [tiny-YOLO](https://pjr
 3. darkflow, https://github.com/thtrieu/darkflow
 4. Darknet.keras, https://github.com/sunshineatnoon/Darknet.keras/
 5. YAD2K, https://github.com/allanzelener/YAD2K
+6. OpenCV https://opencv.org
 
 
 
